@@ -1,5 +1,9 @@
+
+// en cas de changement le couleur le mettre avant le import afin qu il sois valide
+// $primary: orange;
+
 @import "../node_modules/bootstrap/scss/bootstrap.scss";
 
 body {
-    background: $blue;
+    background: $primary;
 }
